@@ -121,3 +121,251 @@ body {
   color: white;
 }
 
+
+.btnn{
+    display: flex;
+    gap: 20px;
+    transform: translateY(50px);
+}
+
+.cp{
+    display: flex;
+    justify-content: space-around;
+}
+
+.p-pc{
+    color: gray;
+}
+
+
+.cp{
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+    align-items: center;
+}
+
+.h2-company{
+transform: translateX(600px) translateY(-50px) ;  
+}
+
+
+.bak-about{
+display: flex;
+justify-content: space-between;
+gap: 60px;
+padding: 60px 40px ;
+background: #dbdbdb;
+}
+
+
+.star{
+display: flex;
+gap: 80px;
+margin-top: 55px;
+}
+
+
+.p-p{
+  font-weight: 100;
+  color: black;
+}
+
+.text-about{
+ width: 55%;
+}
+
+.text-about h2 {
+  font-size: 38px;
+  margin-bottom: 25px;
+}
+
+
+.text-about p {
+  font-size: 16px;
+  line-height: 1.5;
+
+}
+
+
+.img-about{
+  width: 55%;
+}
+
+.about1{
+  display: flex;
+  gap: 25px;
+  margin-bottom: 35px;
+}
+
+
+.about1 img {
+  background: white;
+  padding: 1PX;
+  width: 50px;
+  height: 50px;
+
+}
+
+
+.card{
+  padding: 60px 40px;
+  background: #ffffff;
+}
+
+.card-title{
+  text-align: center;
+}
+
+.card-title h2{
+  font-size: 30px;
+  margin-top: 15px;
+}
+
+
+
+.card-title p{
+  font-size: 14px;
+  color: #808080;
+}
+
+
+.buton{
+  display: flex;
+  justify-content: center;
+  margin: 25px 0 35px ;
+}
+
+
+.card-title button {
+padding: 10px 25px ;
+border: none;
+border-radius: 23px;
+background:var(--btn-bg);
+color: white;
+}
+
+
+.d-card{
+  width: 230px;
+  padding: 25px 20px;
+  text-align: center;
+  border-radius: 15px;
+}
+
+
+.d-card h3 {
+ font-size: 22px;
+}
+
+
+.d-card p {
+  color: gray;
+font-size: 13px;
+}
+
+
+.d-card h2{
+  font-size: 35px;
+}
+
+.d-card ul{
+text-align: left;
+padding-left: 20px;
+list-style: none;
+}
+
+.d-card li{
+  margin-bottom: 15px;
+  font-size: 13px ;
+
+}
+
+.d-card a{
+  display: inline-block;
+margin-top: 15px;
+color:var(--coler);
+}
+
+
+.ii{
+  transform: translateX(-30px) translateY(22px) ;
+}
+
+
+
+
+.card-pro{
+  background: var(--coler);
+  color: white;
+  padding: 35px 20px;
+border-radius: 23px ;
+
+}
+
+.card-pro p{
+  color:white;
+}
+
+.card-pro ul{
+  background-color: white;
+  color: #333;
+  padding: 20px 15px 10px ;
+  border-radius: 10px;
+  list-style: none;
+}
+
+.card-pro li{
+  list-style: none;
+}
+
+.card-pro button{
+  background-color: var(--btn-bg);
+  color: white;
+  border: none;
+  padding: 12px 35px ; 
+border-radius: 10px;
+}
+
+.div{
+  display: flex;
+  gap: 350px;
+}
+
+
+.b{
+width: 230px;
+padding: 25px 20px;
+background-color: white;
+text-align: center;
+border-radius: 15px;
+
+}
+
+.b h3 {
+  font-size: 22px ;
+}
+
+.b p {
+  font-size: 13px;
+}
+
+.b  h2{
+  font-size: 35px;
+}
+
+.b ul{
+  text-align: left;
+  padding-left: 20px;
+  list-style: none;
+}
+
+.b  li{
+  margin-bottom: 15px;
+  font-size: 13px;
+ margin-right: 8px; 
+ color:var(--coler);
+}
+
+
+
