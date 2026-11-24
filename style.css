@@ -310,7 +310,7 @@ border-radius: 23px ;
 .card-pro ul{
   background-color: white;
   color: #333;
-  padding: 20px 15px 10px ;
+  padding: 20px 35px 10px ;
   border-radius: 10px;
   list-style: none;
 }
@@ -369,3 +369,178 @@ border-radius: 15px;
 
 
 
+.i{
+  transform: translateX(-40px) translateY(22px) ;
+}
+
+
+.b2{
+  width: 150px;
+  height: 50px;
+  border-radius: 25px ;
+  border: var(--border);
+  background-color: var(--btn-bg);
+  color: white;
+}
+
+.b2:hover{
+  background-color: white;
+  color: black;
+}
+
+
+.a67 {
+  width: 150px;
+  height: 50px;
+  background-color:white;
+  border: none;
+  color: #000000;
+  border-radius: 20px;
+}
+
+.a67:hover {
+  background-color: var(--coler);
+  color: white;
+
+}
+
+
+
+.footer-section {
+  background: #20243b;
+  color: white;
+  padding: 60px 70px 30px;
+}
+
+
+.top-footer {
+  display: flex;
+  justify-content: space-between;
+  gap: 50px;
+  margin-bottom: 100px;
+}
+
+.comments {
+  width: 45%;
+}
+
+.comments h2 {
+  font-size: 32px;
+}
+
+.comments p {
+  color: #ccccd5;
+  line-height: 1.7;
+}
+
+.comments h1 {
+  font-size: 50px;
+}
+
+.imges {
+  display: flex;
+  gap: 15px;
+  margin-top: 30px;
+}
+
+.imges img {
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+}
+
+
+
+.contact {
+  width: 45%;
+  background: #343b5c;
+  padding: 30px;
+  border-radius: 15px;
+}
+
+.contact h3 {
+  text-align: center;
+}
+
+.contact h2{
+  text-align: center;
+}
+
+.contact label {
+  display: block;
+  margin-top: 15px;
+}
+
+.contact textarea {
+  width: 100%;
+  padding: 15px;
+  margin-top: 10px;
+  border: none;
+  border-radius: 8px;
+  box-sizing: border-box;
+}
+
+.contact input{
+  width: 100%;
+  padding: 15px;
+  margin-top: 10px;
+  border: none;
+  border-radius: 8px;
+  box-sizing: border-box;
+}
+
+.contact textarea {
+  height: 90px;
+}
+
+.contact button {
+  width: 100%;
+  padding: 14px;
+  margin-top: 15px;
+  background: #54e6b0;
+  border: none;
+  border-radius: 8px;
+  color: white;
+}
+
+
+
+.b-footer {
+  display: flex;
+  justify-content: space-between;
+  gap: 40px;
+}
+
+.f-logo h2 {
+  color: #54e6b0;
+  font-size: 32px;
+}
+
+.f-logo input {
+  padding: 12px;
+  border-radius: 25px;
+  background: transparent;
+  border: 1px solid white;
+  color: white;
+}
+
+.f-links {
+  display: flex;
+  gap: 50px;
+}
+
+.links{
+  color: #ccccd5;
+  font-size: 14px;
+}
+
+.cop {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 60px;
+  font-size: 13px;
+}
+
+.g{
+  transform: translateX(250px);
+}
